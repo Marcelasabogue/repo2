@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex build/main"] 1656126210 "build/main.aux" "build/main.bbl" "build/main" 1656126301
+["bibtex build/main"] 1656126860 "build/main.aux" "build/main.bbl" "build/main" 1656126863
   "C:/Users/57322/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/ieeetr.bst" 1291864344 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "biliografia.bib" 1656123979 707 43672440099ea89a51c6690cb6dc6f1f ""
-  "build/main.aux" 1656126301 718 87869986628654ecfca8350ab36e9ae4 "pdflatex"
+  "build/main.aux" 1656126862 718 e392ca9c31387bd654619bc27bc698f4 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1656126299 "c:/Users/57322/OneDrive - Universidad de los Andes/Escritorio/TallerLaTeX/main.tex" "build/main.pdf" "main" 1656126301
+["pdflatex"] 1656126861 "c:/Users/57322/OneDrive - Universidad de los Andes/Escritorio/TallerLaTeX/main.tex" "build/main.pdf" "main" 1656126863
   "C:/Users/57322/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1656126045 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/57322/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1650583562 10254967 319ee7a4875cf790b34d1278619e6154 ""
   "C:/Users/57322/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -227,13 +227,13 @@
   "C:/Users/57322/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "build/img/logogit.jpg" 1656047953 30373 7e7ebb83ebade1c0374ba7db77948446 ""
   "build/img/luna.jpg" 1656124109 13714 8644234815a19299408df869525ea4a0 ""
-  "build/main.aux" 1656126301 718 87869986628654ecfca8350ab36e9ae4 "pdflatex"
-  "build/main.bbl" 1656126210 565 efaa8e56ca9a9ac816e02c46a83a5300 "bibtex build/main"
+  "build/main.aux" 1656126862 718 e392ca9c31387bd654619bc27bc698f4 "pdflatex"
+  "build/main.bbl" 1656126861 565 efaa8e56ca9a9ac816e02c46a83a5300 "bibtex build/main"
   "c:/Users/57322/OneDrive - Universidad de los Andes/Escritorio/TallerLaTeX/main.tex" 1656125232 3349 a7abc86d60ae7cc34fcdbe52a425a5e6 ""
-  "conclusion.tex" 1656124533 25 823f3e76a5f34ad4db7d78a9f80c4ab6 ""
+  "conclusion.tex" 1656126858 472 976c0e0adc0007bad6d5c9e12db592ca ""
   "introduccion.tex" 1656124003 112 10399d9194773e682c4c8ced8d8dbf90 ""
   "main.tex" 1656125232 3349 a7abc86d60ae7cc34fcdbe52a425a5e6 ""
-  "metodologia.tex" 1656126299 1045 83b60e14e7872a9716a5ac1b96a46cc3 ""
+  "metodologia.tex" 1656126858 1534 e210096dbdc263859818e9574c501736 ""
   (generated)
   "build/main.aux"
   "build/main.log"
